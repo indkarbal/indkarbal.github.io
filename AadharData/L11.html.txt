@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+   <head>
+    
+      <meta http-equiv = "refresh" content = "1; url = https://appointments.uidai.gov.in/EACenterSearch.aspx?value=1" />
+   </head>
+  
+</html>
